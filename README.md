@@ -185,7 +185,7 @@
 - 📚 I'm always reading about the latest tech trends
 - 🏃‍♂️ When not coding, you can find me running or hiking
 - 🎵 I code better with music on!
-
+<!--
 ## 💝 Support My Work
 
 If you find my projects helpful or interesting, consider:
@@ -196,7 +196,7 @@ If you find my projects helpful or interesting, consider:
 [![Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/yourusername)
 
 </div>
-
+-->
 ---
 
 <div align="center">
