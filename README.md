@@ -7,8 +7,8 @@
 ## 🚀 About Me
 - 🎓 I'm a **Software Engineering Student** passionate about systems programming and robotics
 - 🔭 I'm currently working on **C programming projects** and **robotics applications**
-- 🌱 I'm currently learning **Advanced algorithms**, **Embedded systems**, and **Machine learning for robotics**
-- 🤖 I have experience in **robotics programming with Java**
+- 🌱 I'm currently learning **Advanced algorithms**, **Embedded systems**, **Java**, and **Machine learning for robotics**
+- 🤖 I have experience in **robotics programming with C++**
 - 👯 I'm looking to collaborate on **open source projects** and **robotics innovations**
 - 💬 Ask me about **C programming**, **Java**, **robotics**, and **software engineering**
 - 📫 How to reach me: **hamimlohani@gmail.com**
@@ -16,6 +16,7 @@
 
 ## 🎓 Education
 - **Bachelor of Science in Software Engineering**
+  - Institute of Information Technology(IIT)
   - University of Dhaka, Expected Graduation: 2028
   - **Relevant Coursework:** Data Structures, Algorithms, Operating Systems, Robotics Programming, Software Design Patterns
   - **GPA:**
@@ -30,9 +31,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)-->
 
 ### 🤖 Robotics & Hardware
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP-32](https://img.shields.io/badge/ESP-32-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### 🛠️ Tools & Technologies
@@ -40,7 +40,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![INTELLIJ](https://img.shields.io/badge/INTELLIJ-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ### 📚 Academic Focus
 ![Data Structures](https://img.shields.io/badge/Data_Structures-4479A1?style=for-the-badge&logo=c&logoColor=white)
@@ -51,25 +51,25 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamim-23&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamim-24&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamim-24&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hamim-24&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamim-24&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🚀 Featured Projects
