@@ -96,6 +96,8 @@
 | **[Basic Arduino code](https://github.com/hamim-24/Arduino)** | Led Blink, Servo, RFID, Ultrasonic sensor | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | **[Smart Access & Detection System using Arduino](https://github.com/hamim-24/Arduino/tree/main/Aurduino-Project-1)** | In this project we will make a autometic gate that can track object and ask for scanner card and then password. If both are correct then it opens the gate for 5 seconds | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | **[...](https://github.com/yourusername/smart-home)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **[...](https://github.com/yourusername/smart-home)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **[...](https://github.com/yourusername/smart-home)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
 </div>
 
@@ -112,6 +114,17 @@
 </div>
 
 -->
+### 🎓 Object Oriented Programming 
+<div align="center">
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[...](https://github.com/yourusername/algorithm-viz)** | ... | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) <!-- ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=openjdk&logoColor=white)--> |
+| **[...](https://github.com/yourusername/mini-dbms)** | ... | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **[...](https://github.com/yourusername/mini-compiler)** | ... | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+
+</div>
+
 
 ## 🌱 Currently Learning
 - **Advanced Data Structures & Algorithms**
@@ -121,15 +134,16 @@
 - **Object Oriented Programming**
 - **Computer Vision**
 - **Distributed Systems**
-
+  
 ## 🎯 Goals for 2024
+<!--
 - [ ] Contribute to open-source robotics projects
 - [ ] Complete advanced algorithms course
 - [ ] Build a fully autonomous robot
 - [ ] Learn ROS2 framework
 - [ ] Participate in robotics competitions
 - [ ] Secure a software engineering internship
-
+-->
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -147,24 +161,24 @@
 </div>
 
 ## 💼 Professional Experience
-
+<!--
 ### Internships & Work Experience
 - **[Company Name]** - Software Engineering Intern (Summer 2024)
   - Developed embedded software solutions using C
   - Collaborated on robotics automation projects
   - Improved system performance by 25%
-
+-->
 ### Leadership & Activities
 - **Robotics Club** - Vice President (2023-2024)
 - **Programming Society** - Member (2022-Present)
 - **Hackathon Participant** - Multiple events
-
+<!--
 ## 🏅 Achievements & Certifications
 - **Dean's List** - Fall 2023, Spring 2024
 - **Best Project Award** - Robotics Course (2023)
 - **Java Programming Certification** - Oracle (2023)
 - **Git & GitHub Certification** - GitHub (2023)
-
+-->
 ## 💡 Fun Facts
 - 🎮 I enjoy building games in my spare time
 - 🔧 I love tinkering with hardware and building gadgets
