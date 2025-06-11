@@ -82,8 +82,8 @@
 
 | Project | Description | Technologies | Video |
 |---------|-------------|--------------|-------|
-| **[Banking Management System](https://github.com/hamim-24/Bank-management-system-in-c)** | A comprehensive terminal-based banking management system written in C. This application provides complete banking functionality including account management, transactions, and administrative controls. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/bQbf_HAfFG8?si=XyYnNxC26QJzA0NI) |
-| **[Monkey Type - Terminal Typing Speed Test](https://github.com/hamim-24/Typing-speed-test)** | A terminal-based typing speed test game written in C using the ncurses library. Test your typing skills with different difficulty levels and track your progress over time. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/bQbf_HAfFG8?si=EHeh11hK54hv_yq1) |
+| **[Banking Management System](https://github.com/hamim-24/Bank-management-system-in-c)** | A comprehensive terminal-based banking management system written in C. This application provides complete banking functionality including account management, transactions, and administrative controls. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://www.youtube.com/watch?v=UjnEz5AukyA) |
+| **[Monkey Type - Terminal Typing Speed Test](https://github.com/hamim-24/Typing-speed-test)** | A terminal-based typing speed test game written in C using the ncurses library. Test your typing skills with different difficulty levels and track your progress over time. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/VvIpiOxFmP8) |
 | **[Exam Management System](https://github.com/hamim-24/exam-system)** | A comprehensive console-based exam management system written in C that allows administrators to create, manage, and conduct exams while providing students with a user-friendly interface to take exams and view results. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/bQbf_HAfFG8?si=XyYnNxC26QJzA0NI) |
 | **[...](https://github.com/yourusername/filesystem-sim)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
 | **[...](https://github.com/yourusername/filesystem-sim)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
@@ -94,10 +94,10 @@
 ### 🤖 Robotics Projects
 <div align="center">
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
+| Project | Description | Technologies | Video |
+|---------|-------------|--------------|-------|
 | **[Basic Arduino code](https://github.com/hamim-24/Arduino)** | Led Blink, Servo, RFID, Ultrasonic sensor | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **[Smart Access & Detection System using Arduino](https://github.com/hamim-24/Arduino/tree/main/Aurduino-Project-1)** | In this project we will make a autometic gate that can track object and ask for scanner card and then password. If both are correct then it opens the gate for 5 seconds | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **[Smart Access & Detection System using Arduino](https://github.com/hamim-24/Arduino/tree/main/Aurduino-Project-1)** | In this project we will make a autometic gate that can track object and ask for scanner card and then password. If both are correct then it opens the gate for 5 seconds | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/ZN6U60bTtPA) |
 | **[...](https://github.com/yourusername/smart-home)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | **[...](https://github.com/yourusername/smart-home)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | **[...](https://github.com/yourusername/smart-home)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
