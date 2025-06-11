@@ -151,13 +151,6 @@
 -->
 
 
-## 💡 Fun Facts
-- 🎮 I enjoy building games in my spare time
-- 🔧 I love tinkering with hardware and building gadgets
-- 📚 I'm always reading about the latest tech trends
-- 🏃‍♂️ When not coding, you can find me running or hiking
-- 🎵 I code better with music on!
-
 ---
 
 <div align="center">
