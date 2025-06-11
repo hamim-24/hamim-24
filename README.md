@@ -85,9 +85,7 @@
 | **[Banking Management System](https://github.com/hamim-24/Bank-management-system-in-c)** | A comprehensive terminal-based banking management system written in C. This application provides complete banking functionality including account management, transactions, and administrative controls. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://www.youtube.com/watch?v=UjnEz5AukyA) |
 | **[Monkey Type - Terminal Typing Speed Test](https://github.com/hamim-24/Typing-speed-test)** | A terminal-based typing speed test game written in C using the ncurses library. Test your typing skills with different difficulty levels and track your progress over time. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/VvIpiOxFmP8) |
 | **[Exam Management System](https://github.com/hamim-24/exam-system)** | A comprehensive console-based exam management system written in C that allows administrators to create, manage, and conduct exams while providing students with a user-friendly interface to take exams and view results. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/bQbf_HAfFG8?si=XyYnNxC26QJzA0NI) |
-| **[...](https://github.com/yourusername/filesystem-sim)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
-| **[...](https://github.com/yourusername/filesystem-sim)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
-| **[...](https://github.com/yourusername/filesystem-sim)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+<!--| **[...](https://github.com/yourusername/filesystem-sim)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | -->
 
 </div>
 
@@ -98,36 +96,20 @@
 |---------|-------------|--------------|-------|
 | **[Basic Arduino code](https://github.com/hamim-24/Arduino)** | Led Blink, Servo, RFID, Ultrasonic sensor | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | **[Smart Access & Detection System using Arduino](https://github.com/hamim-24/Arduino/tree/main/Aurduino-Project-1)** | In this project we will make a autometic gate that can track object and ask for scanner card and then password. If both are correct then it opens the gate for 5 seconds | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/ZN6U60bTtPA) |
-| **[...](https://github.com/yourusername/smart-home)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **[...](https://github.com/yourusername/smart-home)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **[...](https://github.com/yourusername/smart-home)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+<!--| **[...](https://github.com/yourusername/smart-home)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | -->
 
 </div>
 
 <!--
-### 🎓 Academic Projects
-<div align="center">
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **[Algorithm Visualizer](https://github.com/yourusername/algorithm-viz)** | Interactive visualization of sorting algorithms | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **[Database Management System](https://github.com/yourusername/mini-dbms)** | Simplified DBMS implementation | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
-| **[Compiler Design Project](https://github.com/yourusername/mini-compiler)** | Basic compiler for a custom language | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Flex](https://img.shields.io/badge/Flex-2C5282?style=flat-square) |
-
-</div>
-
--->
 ### 🎓 Object Oriented Programming 
 <div align="center">
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **[...](https://github.com/yourusername/algorithm-viz)** | ... | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) <!-- ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=openjdk&logoColor=white)--> |
-| **[...](https://github.com/yourusername/mini-dbms)** | ... | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **[...](https://github.com/yourusername/mini-compiler)** | ... | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **[...](https://github.com/yourusername/algorithm-viz)** | ... | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | 
 
 </div>
-
+-->
 
 ## 🌱 Currently Learning
 - **Advanced Data Structures & Algorithms**
@@ -137,19 +119,7 @@
 - **Object Oriented Programming**
 - **Computer Vision**
 - **Distributed Systems**
-  
-## 🎯 Goals for 2024
-<!--
-- [ ] Contribute to open-source robotics projects
-- [ ] Complete advanced algorithms course
-- [ ] Build a fully autonomous robot
-- [ ] Learn ROS2 framework
-- [ ] Participate in robotics competitions
-- [ ] Secure a software engineering internship
--->
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 ## 🤝 Connect with Me
 
@@ -162,44 +132,32 @@
 [![YouTube](https://img.shields.io/badge/YouTube-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.youtube.com/@MdInzamamulLohani)
 
 </div>
-
-## 💼 Professional Experience
 <!--
+## 💼 Professional Experience
 ### Internships & Work Experience
 - **[Company Name]** - Software Engineering Intern (Summer 2024)
   - Developed embedded software solutions using C
   - Collaborated on robotics automation projects
   - Improved system performance by 25%
--->
 ### Leadership & Activities
 - **Robotics Club** - Vice President (2023-2024)
 - **Programming Society** - Member (2022-Present)
 - **Hackathon Participant** - Multiple events
-<!--
 ## 🏅 Achievements & Certifications
 - **Dean's List** - Fall 2023, Spring 2024
 - **Best Project Award** - Robotics Course (2023)
 - **Java Programming Certification** - Oracle (2023)
 - **Git & GitHub Certification** - GitHub (2023)
 -->
+
+
 ## 💡 Fun Facts
 - 🎮 I enjoy building games in my spare time
 - 🔧 I love tinkering with hardware and building gadgets
 - 📚 I'm always reading about the latest tech trends
 - 🏃‍♂️ When not coding, you can find me running or hiking
 - 🎵 I code better with music on!
-<!--
-## 💝 Support My Work
 
-If you find my projects helpful or interesting, consider:
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
-[![Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/yourusername)
-
-</div>
--->
 ---
 
 <div align="center">
