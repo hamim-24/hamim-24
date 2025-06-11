@@ -15,6 +15,9 @@
 - ⚡ Fun fact: **I love building things that move and solve real-world problems!**
 
 ## 🎓 Education
+- **HSC**
+  - St. Joseph Higher Secondary School, Mohammadpur Dhaka
+  - **GPA:** 5.00
 - **Bachelor of Science in Software Engineering**
   - Institute of Information Technology(IIT)
   - University of Dhaka, Expected Graduation: 2028
