@@ -80,11 +80,11 @@
 ### 💻 C Programming Projects
 <div align="center">
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **[Banking Management System](https://github.com/hamim-24/Bank-management-system-in-c)** | A comprehensive terminal-based banking management system written in C. This application provides complete banking functionality including account management, transactions, and administrative controls. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
-| **[Monkey Type - Terminal Typing Speed Test](https://github.com/hamim-24/Typing-speed-test)** | A terminal-based typing speed test game written in C using the ncurses library. Test your typing skills with different difficulty levels and track your progress over time. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
-| **[Exam Management System](https://github.com/hamim-24/exam-system)** | A comprehensive console-based exam management system written in C that allows administrators to create, manage, and conduct exams while providing students with a user-friendly interface to take exams and view results. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+| Project | Description | Technologies | Video |
+|---------|-------------|--------------|-------|
+| **[Banking Management System](https://github.com/hamim-24/Bank-management-system-in-c)** | A comprehensive terminal-based banking management system written in C. This application provides complete banking functionality including account management, transactions, and administrative controls. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/bQbf_HAfFG8?si=XyYnNxC26QJzA0NI) |
+| **[Monkey Type - Terminal Typing Speed Test](https://github.com/hamim-24/Typing-speed-test)** | A terminal-based typing speed test game written in C using the ncurses library. Test your typing skills with different difficulty levels and track your progress over time. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/bQbf_HAfFG8?si=EHeh11hK54hv_yq1) |
+| **[Exam Management System](https://github.com/hamim-24/exam-system)** | A comprehensive console-based exam management system written in C that allows administrators to create, manage, and conduct exams while providing students with a user-friendly interface to take exams and view results. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/bQbf_HAfFG8?si=XyYnNxC26QJzA0NI) |
 | **[...](https://github.com/yourusername/filesystem-sim)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
 | **[...](https://github.com/yourusername/filesystem-sim)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
 | **[...](https://github.com/yourusername/filesystem-sim)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
