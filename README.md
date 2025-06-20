@@ -100,16 +100,6 @@
 
 </div>
 
-<!--
-### 🎓 Object Oriented Programming 
-<div align="center">
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **[...](https://github.com/yourusername/algorithm-viz)** | ... | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | 
-
-</div>
--->
 
 ## 🌱 Currently Learning
 - **Advanced Data Structures & Algorithms**
