@@ -17,7 +17,7 @@
 ## 🎓 Education
 - **HSC**
   - St. Joseph Higher Secondary School, Mohammadpur Dhaka
-  - **Grade:**A+
+  - **Grade:** A+
 - **Bachelor of Science in Software Engineering**
   - Institute of Information Technology(IIT)
   - University of Dhaka, Expected Graduation: 2028
