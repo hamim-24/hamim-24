@@ -96,13 +96,14 @@
 |---------|-------------|--------------|-------|
 | **[Basic Arduino code](https://github.com/hamim-24/Arduino)** | Led Blink, Servo, RFID, Ultrasonic sensor | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | **[Smart Access & Detection System using Arduino](https://github.com/hamim-24/Arduino/tree/main/Aurduino-Project-1)** | In this project we will make a autometic gate that can track object and ask for scanner card and then password. If both are correct then it opens the gate for 5 seconds | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/ZN6U60bTtPA) |
-<!--| **[...](https://github.com/yourusername/smart-home)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | -->
+| **[ESP32 WiFi Chat with LCD Display](https://github.com/hamim-24/Arduino/tree/main/ESP-comunication-A)** | This project demonstrates a simple two-way chat system between two ESP32 development boards using WiFi. Messages are sent and received over a local network, displayed on an I2C LCD, and indicated by LED lights. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/HzUp_aHiSuI) |
+<!--| **[...](https://github.com)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://) | -->
 
 </div>
 
 
 ## 🌱 Currently Learning
-- Course - [Software Engineering](https://github.com/hamim-24/Software-Engineering-Course) in IIT-DU
+- **Course - [Software Engineering](https://github.com/hamim-24/Software-Engineering-Course) at IIT-DU**
 - **Advanced Data Structures & Algorithms**
 - **Embedded Systems Programming**
 - **Machine Learning for Robotics**
