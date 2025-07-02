@@ -30,7 +30,9 @@
 ![C](https://img.shields.io/badge/C_Projects-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Robotics](https://img.shields.io/badge/Robotics-3776AB?style=for-the-badge&logo=python&logoColor=white) <!--
+![Robotics](https://img.shields.io/badge/Robotics-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!--
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)-->
 
 ### 🤖 Robotics & Hardware
@@ -77,7 +79,7 @@
 
 ## 🚀 Featured Projects
 
-### 💻 C Programming Projects
+### 💻 Programming Projects
 <div align="center">
 
 | Project | Description | Technologies | Video |
@@ -97,7 +99,8 @@
 | **[Basic Arduino code](https://github.com/hamim-24/Arduino)** | Led Blink, Servo, RFID, Ultrasonic sensor | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | **[Smart Access & Detection System using Arduino](https://github.com/hamim-24/Arduino/tree/main/Aurduino-Project-1)** | In this project we will make a autometic gate that can track object and ask for scanner card and then password. If both are correct then it opens the gate for 5 seconds | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/ZN6U60bTtPA) |
 | **[ESP32 WiFi Chat with LCD Display](https://github.com/hamim-24/Arduino/tree/main/ESP-comunication-A)** | This project demonstrates a simple two-way chat system between two ESP32 development boards using WiFi. Messages are sent and received over a local network, displayed on an I2C LCD, and indicated by LED lights. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/HzUp_aHiSuI) |
-<!--| **[...](https://github.com)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://) | -->
+| **[Gesture-control-led](https://github.com/hamim-24/Python-project-with-arduino/tree/main/Gesture-control-led)** | A real-time hand gesture recognition system that controls Arduino LEDs based on finger counting using computer vision and PyFirmata. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |  [YouTube](https://youtu.be/iXlBBXdPgvs) |
+<!--| **[...](https://)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://) | -->
 
 </div>
 
