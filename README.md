@@ -15,13 +15,13 @@
 - ⚡ Fun fact: **I love building things that move and solve real-world problems!**
 
 ## 🎓 Education
-- **HSC**
-  - St. Joseph Higher Secondary School, Mohammadpur Dhaka
-  - **Grade:** A+
 - **Bachelor of Science in Software Engineering**
   - Institute of Information Technology(IIT)
   - University of Dhaka, Expected Graduation: 2028
   - **Relevant Coursework:** Data Structures, Algorithms, Operating Systems, Robotics Programming, Software Design Patterns
+- **HSC**
+  - St. Joseph Higher Secondary School, Mohammadpur Dhaka
+  - **Grade:** A+
   - **Grade:**
 
 ## 💻 Programming Skills
@@ -79,7 +79,23 @@
 
 ## 🚀 Featured Projects
 
+
 ### 💻 Programming Projects
+
+### 🤖 Robotics Projects
+<div align="center">
+
+| Project | Description | Technologies | Video |
+|---------|-------------|--------------|-------|
+| **[ESP32 WiFi Chat with LCD Display](https://github.com/hamim-24/Arduino/tree/main/ESP-comunication-A)** | This project demonstrates a simple two-way chat system between two ESP32 development boards using WiFi. Messages are sent and received over a local network, displayed on an I2C LCD, and indicated by LED lights. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/HzUp_aHiSuI) |
+| **[Smart Access & Detection System using Arduino](https://github.com/hamim-24/Arduino/tree/main/Aurduino-Project-1)** | In this project we will make a autometic gate that can track object and ask for scanner card and then password. If both are correct then it opens the gate for 5 seconds | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/ZN6U60bTtPA) |
+| **[Basic Arduino code](https://github.com/hamim-24/Arduino)** | Led Blink, Servo, RFID, Ultrasonic sensor | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+<!--| **[...](https://github.com)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://) | -->
+
+</div>
+
+
+### 💻 C Programming Projects
 <div align="center">
 
 | Project | Description | Technologies | Video |
