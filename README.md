@@ -79,9 +79,6 @@
 
 ## 🚀 Featured Projects
 
-
-### 💻 Programming Projects
-
 ### 🤖 Robotics Projects
 <div align="center">
 
