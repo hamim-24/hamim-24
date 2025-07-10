@@ -1,0 +1,65 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+.history/
+
+# General
+*.log
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+*.old
+
+# Environment files
+.env
+.env.*
+
+# Others
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# Coverage
+coverage/
+*.cover
+*.py,cover
+.hypothesis/
+
+# Build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# System Files
+Thumbs.db
+Desktop.ini
+
+# Backup files
+*~
+*.bak
+*.tmp
+*.temp
