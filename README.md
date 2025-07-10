@@ -24,6 +24,35 @@
   - **Grade:** A+
   - **Grade:**
 
+## 🚀 Featured Projects
+
+### 🤖 Robotics Projects
+<div align="center">
+
+| Project | Description | Technologies | Video |
+|---------|-------------|--------------|-------|
+| **[Hand Gesture LED Controller](https://github.com/hamim-24/Python-project-with-arduino/tree/main/Gesture-control-led)** | A real-time hand gesture recognition system that controls Arduino LEDs based on finger counting using computer vision and PyFirmata. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |  [YouTube](https://youtu.be/iXlBBXdPgvs?si=HKOLDvGgmM9atVWg) |
+| **[ESP32 WiFi Chat with LCD Display](https://github.com/hamim-24/Arduino/tree/main/ESP-comunication-A)** | This project demonstrates a simple two-way chat system between two ESP32 development boards using WiFi. Messages are sent and received over a local network, displayed on an I2C LCD, and indicated by LED lights. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/HzUp_aHiSuI) |
+| **[Smart Access & Detection System using Arduino](https://github.com/hamim-24/Arduino/tree/main/Aurduino-Project-1)** | In this project we will make a autometic gate that can track object and ask for scanner card and then password. If both are correct then it opens the gate for 5 seconds | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/ZN6U60bTtPA) |
+| **[Basic Arduino code](https://github.com/hamim-24/Arduino)** | Led Blink, Servo, RFID, Ultrasonic sensor | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+<!--| **[...](https://github.com/hamim-24)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://) | -->
+
+</div>
+
+
+### 💻 C Programming Projects
+<div align="center">
+
+| Project | Description | Technologies | Video |
+|---------|-------------|--------------|-------|
+| **[Banking Management System](https://github.com/hamim-24/Bank-management-system-in-c)** | A comprehensive terminal-based banking management system written in C. This application provides complete banking functionality including account management, transactions, and administrative controls. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://www.youtube.com/watch?v=UjnEz5AukyA) |
+| **[Monkey Type - Terminal Typing Speed Test](https://github.com/hamim-24/Typing-speed-test)** | A terminal-based typing speed test game written in C using the ncurses library. Test your typing skills with different difficulty levels and track your progress over time. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/VvIpiOxFmP8) |
+| **[Exam Management System](https://github.com/hamim-24/exam-system)** | A comprehensive console-based exam management system written in C that allows administrators to create, manage, and conduct exams while providing students with a user-friendly interface to take exams and view results. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/bQbf_HAfFG8?si=XyYnNxC26QJzA0NI) |
+<!--| **[...](https://github.com/yourusername/filesystem-sim)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | -->
+
+</div>
+
+
 ## 💻 Programming Skills
 
 ### Languages
@@ -76,35 +105,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamim-24&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
-
-## 🚀 Featured Projects
-
-### 🤖 Robotics Projects
-<div align="center">
-
-| Project | Description | Technologies | Video |
-|---------|-------------|--------------|-------|
-| **[Hand Gesture LED Controller](https://github.com/hamim-24/Python-project-with-arduino/tree/main/Gesture-control-led)** | A real-time hand gesture recognition system that controls Arduino LEDs based on finger counting using computer vision and PyFirmata. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |  [YouTube](https://youtu.be/iXlBBXdPgvs?si=HKOLDvGgmM9atVWg) |
-| **[ESP32 WiFi Chat with LCD Display](https://github.com/hamim-24/Arduino/tree/main/ESP-comunication-A)** | This project demonstrates a simple two-way chat system between two ESP32 development boards using WiFi. Messages are sent and received over a local network, displayed on an I2C LCD, and indicated by LED lights. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/HzUp_aHiSuI) |
-| **[Smart Access & Detection System using Arduino](https://github.com/hamim-24/Arduino/tree/main/Aurduino-Project-1)** | In this project we will make a autometic gate that can track object and ask for scanner card and then password. If both are correct then it opens the gate for 5 seconds | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/ZN6U60bTtPA) |
-| **[Basic Arduino code](https://github.com/hamim-24/Arduino)** | Led Blink, Servo, RFID, Ultrasonic sensor | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-<!--| **[...](https://github.com/hamim-24)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://) | -->
-
-</div>
-
-
-### 💻 C Programming Projects
-<div align="center">
-
-| Project | Description | Technologies | Video |
-|---------|-------------|--------------|-------|
-| **[Banking Management System](https://github.com/hamim-24/Bank-management-system-in-c)** | A comprehensive terminal-based banking management system written in C. This application provides complete banking functionality including account management, transactions, and administrative controls. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://www.youtube.com/watch?v=UjnEz5AukyA) |
-| **[Monkey Type - Terminal Typing Speed Test](https://github.com/hamim-24/Typing-speed-test)** | A terminal-based typing speed test game written in C using the ncurses library. Test your typing skills with different difficulty levels and track your progress over time. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/VvIpiOxFmP8) |
-| **[Exam Management System](https://github.com/hamim-24/exam-system)** | A comprehensive console-based exam management system written in C that allows administrators to create, manage, and conduct exams while providing students with a user-friendly interface to take exams and view results. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/bQbf_HAfFG8?si=XyYnNxC26QJzA0NI) |
-<!--| **[...](https://github.com/yourusername/filesystem-sim)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | -->
-
-</div>
-
 
 ## 🌱 Currently Learning
 - **Course - [Software Engineering](https://github.com/hamim-24/Software-Engineering-Course) at IIT-DU**
