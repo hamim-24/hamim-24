@@ -19,10 +19,10 @@
   - Institute of Information Technology(IIT)
   - University of Dhaka, Expected Graduation: 2028
   - **Relevant Coursework:** Data Structures, Algorithms, Operating Systems, Robotics Programming, Software Design Patterns
+  - **Grade:**
 - **HSC**
   - St. Joseph Higher Secondary School, Mohammadpur Dhaka
   - **Grade:** A+
-  - **Grade:**
 
 ## 🚀 Featured Projects
 
