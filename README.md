@@ -41,6 +41,17 @@
 </div>
 
 
+### 💻 Java Projects
+<div align="center">
+
+| Project | Description | Technologies | Video |
+|---------|-------------|--------------|-------|
+| **[Player Registration Form (Java Swing)](https://github.com/hamim-24/Registration-form)** | A simple desktop application built with Java Swing that allows users to fill out and save player registration data. It demonstrates how to build interactive GUI apps using layout managers, event listeners, file handling, and form validation in Java. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-32CD32?style=for-the-badge&logoColor=white) |  [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7350180621308092417/) |
+<!--| **[...](https://github.com/hamim-24/)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |  [YouTube](https://) | -->
+
+</div>
+
+
 ### 💻 C Programming Projects
 <div align="center">
 
@@ -49,7 +60,7 @@
 | **[Banking Management System](https://github.com/hamim-24/Bank-management-system-in-c)** | A comprehensive terminal-based banking management system written in C. This application provides complete banking functionality including account management, transactions, and administrative controls. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://www.youtube.com/watch?v=UjnEz5AukyA) |
 | **[Monkey Type - Terminal Typing Speed Test](https://github.com/hamim-24/Typing-speed-test)** | A terminal-based typing speed test game written in C using the ncurses library. Test your typing skills with different difficulty levels and track your progress over time. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/VvIpiOxFmP8) |
 | **[Exam Management System](https://github.com/hamim-24/exam-system)** | A comprehensive console-based exam management system written in C that allows administrators to create, manage, and conduct exams while providing students with a user-friendly interface to take exams and view results. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/bQbf_HAfFG8?si=XyYnNxC26QJzA0NI) |
-<!--| **[...](https://github.com/yourusername/filesystem-sim)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | -->
+<!--| **[...](https://github.com/yourusername/filesystem-sim)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |  [YouTube](https://) | -->
 
 </div>
 
@@ -60,10 +71,11 @@
 ![C](https://img.shields.io/badge/C_Projects-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-32CD32?style=for-the-badge&logoColor=white)
 ![Robotics](https://img.shields.io/badge/Robotics-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 <!--
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)-->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |  [YouTube](https://) |-->
 
 ### 🤖 Robotics & Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
