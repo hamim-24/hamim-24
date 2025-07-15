@@ -69,7 +69,7 @@
 ## 💻 Programming Skills
 
 ### Languages
-![C](https://img.shields.io/badge/C_Projects-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C_-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-32CD32?style=for-the-badge&logoColor=white)
