@@ -46,6 +46,7 @@
 
 | Project | Description | Technologies | Video |
 |---------|-------------|--------------|-------|
+| **[Simple-logIn-signIn-Frame](https://github.com/hamim-24/Simple-logIn-signIn-Frame)** | A Java Swing application that provides user registration and login functionality with a graphical user interface. |![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-32CD32?style=for-the-badge&logoColor=white)|
 | **[Player Registration Form (Java Swing)](https://github.com/hamim-24/Registration-form)** | A simple desktop application built with Java Swing that allows users to fill out and save player registration data. It demonstrates how to build interactive GUI apps using layout managers, event listeners, file handling, and form validation in Java. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-32CD32?style=for-the-badge&logoColor=white) |  [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7350180621308092417/) |
 <!--| **[...](https://github.com/hamim-24/)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |  [YouTube](https://) | -->
 
