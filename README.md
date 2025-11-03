@@ -76,7 +76,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-32CD32?style=for-the-badge&logoColor=white)
 ![Robotics](https://img.shields.io/badge/Robotics-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-3E474E?style=for-the-badge&logo=gnu-bash&logoColor=white)
 <!--
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |  [YouTube](https://) |-->
 
