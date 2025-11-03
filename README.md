@@ -26,6 +26,16 @@
 
 ## 🚀 Featured Projects
 
+
+### 💻 Java Projects
+<div align="center">
+
+| Project | Description | Technologies | Video |
+|---------|-------------|--------------|-------|
+| **[...](https://github.com/hamim-24)** | ... | ![Shell](https://img.shields.io/badge/Shell-3E474E?style=for-the-badge&logo=gnu-bash&logoColor=white) |  [YouTube](https://youtube.com/shorts/ptvYw94-gpA?feature=share) |
+<!--| **[...](https://github.com/hamim-24)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://) | -->
+
+
 ### 🤖 Robotics Projects
 <div align="center">
 
