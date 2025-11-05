@@ -27,7 +27,7 @@
 ## 🚀 Featured Projects
 
 
-### 💻 Java Projects
+### 💻 Shell Projects
 <div align="center">
 
 | Project | Description | Technologies | Video |
