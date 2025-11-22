@@ -33,7 +33,7 @@
 | Project | Description | Technologies | Video |
 |---------|-------------|--------------|-------|
 | **[system_suite](https://github.com/hamim-24/system_suite)** | A comprehensive terminal-based system maintenance and monitoring toolkit for macOS, Linux, and Unix-like systems. | ![Shell](https://img.shields.io/badge/Shell-3E474E?style=for-the-badge&logo=gnu-bash&logoColor=white) |  [YouTube](https://youtu.be/W2TKm4A-wA8) |
-| **[Shell command search_package](https://github.com/hamim-24)** | using this command on macOS, search package, package, install package | ![Shell](https://img.shields.io/badge/Shell-3E474E?style=for-the-badge&logo=gnu-bash&logoColor=white) |  [YouTube](https://youtube.com/shorts/ptvYw94-gpA?feature=share) |
+| **[Shell command search_package](https://github.com/hamim-24/Shell/blob/main/script_5_condition.sh)** | using this command on macOS, search package, package, install package | ![Shell](https://img.shields.io/badge/Shell-3E474E?style=for-the-badge&logo=gnu-bash&logoColor=white) |  [YouTube](https://youtube.com/shorts/ptvYw94-gpA?feature=share) |
 <!--| **[...](https://github.com/hamim-24)** | ... | ![Shell](https://img.shields.io/badge/Shell-3E474E?style=for-the-badge&logo=gnu-bash&logoColor=white) |  [YouTube](https://) | -->
 
 </div>
